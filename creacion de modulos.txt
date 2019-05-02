@@ -1,0 +1,2 @@
+PS C:\Program Files (x86)\Odoo 12.0\server> ..\python\python.exe ./odoo-bin scaffold "module1" 'C:\Users\Stagair\Desktop\'
+PS C:\Program Files (x86)\Odoo 12.0\server>

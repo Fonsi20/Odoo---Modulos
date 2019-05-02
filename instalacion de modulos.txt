@@ -1,0 +1,13 @@
+To install our modules in Odoo after making the Scaffold we have to unzip them,
+if it is in ZIP format, and put it in one of the folders of the Addoms route 
+like: Odoo / Server / Odoo.conf
+
+If our version is 11.0+ we follow the following steps:
+
+- Activate developer mode
+- Navigate to Apps menu
+- Click Update Apps List
+- Search and open a module you need
+- Click [Install]
+
+info: https://odoo-development.readthedocs.io/en/latest/odoo/usage/install-module.html#from-zip-archive
